@@ -1,0 +1,205 @@
+{
+    "preload": {
+      "files": [   
+        {
+          "type": "image",
+          "key": "bg",
+          "url": "./assets/sprites/bg.png"
+        },
+        {
+          "type": "image",
+          "key": "title",
+          "url": "./assets/sprites/title.png"
+        },
+        {
+          "type": "image",
+          "key": "platform_1",
+          "url": "./assets/sprites/platform_1.png"
+        },
+        {
+          "type": "image",
+          "key": "platform_2",
+          "url": "./assets/sprites/platform_2.png"
+        },
+        {
+          "type": "image",
+          "key": "obs-1",
+          "url": "./assets/sprites/obs-1.png"
+        },
+        {
+          "type": "image",
+          "key": "obs-2",
+          "url": "./assets/sprites/obs-2.png"
+        },
+        {
+          "type": "image",
+          "key": "obs-3",
+          "url": "./assets/sprites/obs-3.png"
+        },
+        {
+          "type": "image",
+          "key": "obs-4",
+          "url": "./assets/sprites/obs-4.png"
+        },
+        {
+          "type": "image",
+          "key": "shield-effect",
+          "url": "./assets/sprites/shield-effect.png"
+        },
+        {
+          "type": "image",
+          "key": "shield",
+          "url": "./assets/sprites/shield.png"
+        },
+        {
+          "type": "image",
+          "key": "speed",
+          "url": "./assets/sprites/speed.png"
+        },
+        {
+          "type": "image",
+          "key": "hearth",
+          "url": "./assets/sprites/hearth.png"
+        },
+        {
+          "type": "image",
+          "key": "btn-settings",
+          "url": "./assets/sprites/btn-settings.png"
+        },
+        {
+          "type": "image",
+          "key": "btn-play",
+          "url": "./assets/sprites/btn-play.png"
+        },
+        {
+          "type": "image",
+          "key": "panel-bg",
+          "url": "./assets/sprites/panel.png"
+        },
+        {
+          "type": "image",
+          "key": "txt-gameover",
+          "url": "./assets/sprites/txt-gameover.png"
+        },
+        {
+          "type": "image",
+          "key": "btn-retry",
+          "url": "./assets/sprites/btn-retry.png"
+        },
+        {
+          "type": "image",
+          "key": "home-btn",
+          "url": "./assets/sprites/btn-home.png"
+        },
+        {
+          "type": "image",
+          "key": "btn-settings",
+          "url": "./assets/sprites/btn-settings.png"
+        },
+        {
+          "type": "image",
+          "key": "txt-settings",
+          "url": "./assets/sprites/txt-settings.png"
+        },
+        {
+          "type": "image",
+          "key": "vitamin_1",
+          "url": "./assets/sprites/vitamin_1.png"
+        },
+        {
+          "type": "image",
+          "key": "vitamin_2",
+          "url": "./assets/sprites/vitamin_2.png"
+        },
+        {
+          "type": "image",
+          "key": "vitamin_3",
+          "url": "./assets/sprites/vitamin_3.png"
+        }, 
+        {
+          "type": "image",
+          "key": "logo",
+          "url": "./assets/sprites/logo.png"
+        },
+        {
+          "type": "image",
+          "key": "icn-sfx",
+          "url": "./assets/sprites/icn-sfx.png"
+        },
+        {
+          "type": "image",
+          "key": "icn-music",
+          "url": "./assets/sprites/icn-music.png"
+        },
+        {
+          "type": "image",
+          "key": "store",
+          "url": "./assets/sprites/store.png"
+        },
+
+        {
+          "type": "image",
+          "key": "hand",
+          "url": "./assets/sprites/hand.png"
+        },
+  
+        {
+          "type": "spritesheet",
+          "key": "player",
+          "url": "./assets/sprites/char-run.png",
+          "frameConfig": {
+            "frameWidth": 273,
+            "frameHeight": 252
+          }
+        },
+        {
+          "type": "spritesheet",
+          "key": "player_1",
+          "url": "./assets/sprites/run.png",
+          "frameConfig": {
+            "frameWidth": 123.6,
+            "frameHeight": 210.5
+          }
+        },
+        {
+          "type": "spritesheet",
+          "key": "onoff",
+          "url": "./assets/sprites/onoff.png",
+          "frameConfig": {
+            "frameWidth": 182,
+            "frameHeight": 78
+          }
+        },
+        {
+          "type": "audio",
+          "key": "bgm",
+          "url": ["./assets/sounds/bgm.mp3", "./assets/sounds/bgm.wav"]
+        },
+        {
+          "type": "audio",
+          "key": "scoreup",
+          "url": ["./assets/sounds/scoreup.ogg", "./assets/sounds/scoreup.wav"]
+        },
+        {
+          "type": "audio",
+          "key": "jump",
+          "url": ["./assets/sounds/jump.ogg", "./assets/sounds/jump.wav"]
+        },
+        {
+          "type": "audio",
+          "key": "click",
+          "url": ["./assets/sounds/click.wav", "./assets/sounds/click.ogg"]
+        },
+        {
+          "type": "audio",
+          "key": "oh-no",
+          "url": ["./assets/sounds/oh-no.mp3", "./assets/sounds/oh-no.wav"]
+        },
+        {
+          "type": "audio",
+          "key": "overSound",
+          "url": ["./assets/sounds/overSound.ogg", "./assets/sounds/overSound.wav"]
+        }
+      ]
+    }
+}
